@@ -1,4 +1,3 @@
-# cowin-company-assignment
 Backend Developer Assignment
 Tech Stack: NodeJS, MongoDB
 Task Description:
